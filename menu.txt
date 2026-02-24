@@ -1,0 +1,4 @@
+# Sintassi: KEY=item1,item2,...
+PRIMI=pasta al pomodoro,riso alle verdure
+SECONDI=pollo al forno,pesce al vapore
+COFFEE=normale,macchiato,decaffeinato,ginseng
